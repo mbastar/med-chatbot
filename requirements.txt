@@ -1,0 +1,11 @@
+fastapi[all]
+python-dotenv
+pydantic==1.*
+langchain
+bs4
+tiktoken
+streamlit
+nemoguardrails==0.4.0 
+pinecone-client==2.2.2 
+datasets==2.14.3 
+openai==0.27.8
